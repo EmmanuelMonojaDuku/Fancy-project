@@ -1,0 +1,47 @@
+
+}
+wrapper
+{
+height: 660px;
+width: 1350px;
+/"background color:red;"/
+}
+header
+{
+height: 130px0;
+width: 1364px;
+background-color: black;	
+}
+section
+{
+height: 450px;
+width: 764px;
+background-color: grey;	
+}
+footer
+{
+height: 82px;
+width: 1369px;
+background-color: black;	
+}
+li
+{
+color: white;
+text-decoration: none;
+word-wrap: 30px;
+padding: 20px;
+
+}
+nav li
+{
+display: inline-block;
+line-height: 80px;
+
+}
+.box
+{
+height: 300px;
+width: 450px;
+background-color: yellowgreen;
+margin: 20px auto;	
+}
